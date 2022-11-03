@@ -1,0 +1,49 @@
+{
+    "name": "coachingmate-server",
+    "version": "1.0.0",
+    "private": true,
+    "jest": {
+        "preset": "@shelf/jest-mongodb"
+    },
+    "scripts": {
+        "start": "node app.js",
+        "dev": "nodemon app.js",
+        "test": "jest"
+    },
+    "dependencies": {
+        "@google-cloud/storage": "^4.0.0",
+        "axios": "^0.26.1",
+        "bcrypt": "^5.0.1",
+        "bcryptjs": "^2.4.3",
+        "body-parser": "^1.19.0",
+        "connect-flash": "^0.1.1",
+        "cors": "^2.8.5",
+        "crypto": "^1.0.1",
+        "cypress": "^3.5.0",
+        "dotenv": "^8.1.0",
+        "ejs": "^2.7.1",
+        "express": "^4.16.4",
+        "express-ejs-layouts": "^2.5.0",
+        "express-session": "^1.16.2",
+        "formidable": "^1.2.1",
+        "fs": "0.0.1-security",
+        "gridfs-stream": "^1.1.1",
+        "jsonwebtoken": "^8.5.1",
+        "mime-types": "^2.1.24",
+        "mongoose": "^5.6.9",
+        "multer": "^1.4.2",
+        "node-cron": "^3.0.0",
+        "nodemailer": "^6.3.1",
+        "oauth-1.0a": "^2.2.6",
+        "passport": "^0.4.0",
+        "passport-local": "^1.0.0",
+        "path": "^0.12.7",
+        "sort-array": "^4.1.2",
+        "supertest": "^6.2.3"
+    },
+    "devDependencies": {
+        "@shelf/jest-mongodb": "^1.1.0",
+        "jest": "^24.9.0",
+        "nodemon": "^1.19.4"
+    }
+}

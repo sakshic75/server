@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "coaching-mate-social-website",
+  "private_key_id": "49227c7ec05e28fb38cb54a915fc9c6d4d69a50e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDMO8h79xis7Jhj\ns8C5AHi9t+ELJkdbuwRk318ZEG2x7W3EBontS5hqva3JTb+l4Bffmc1ucf5IKnJq\nbzKCpBiSdIR25S09a11ziAFtzWaZEqjH4GRvPaVpbs2ZGc46s5cAWqEnic1eT5RF\nRBflSlngWKDTvn0Jk8/hryxMtCQawgZ9MKyegD7nPEs04DRPgX/9efupR7Bi6ZRD\nBaC/TCGJeZ3JHhOox8AP7A64F+Vrv/uly4Ckdl1clhXjuh3l5JR7VHAYkprWPQfm\nFUJyKDF/QKvKFiiTWT6kPazL1+15/Zo9aj3XtAvAoR7VXDAyzKVoxronJS9+Oa3A\nVl072ErDAgMBAAECggEAYwWzcYN/V8yJIII1dZ2IbTf76ZuAKrY07bGt2qmv/f5n\n44zmEANAnbRkz/8d5k+OU7AvPhcQGq5V9kv+2f+1GEFdPoZklmx5jXwKcVIPJjW5\nVtvx5kul6UY7cjlkV+reUmIe09xJEiqUcbcPvPD9PbzLEY9A8cVUnBCCcpg/DydY\nrHQNS1NGqOo0LzjuF5UQQAwcV7H0vFdIriFH2QdyCOSDSh+2DH2Wm7b6gZeulxSf\nzUTDZpRZbEHgoy3xmq3Qu04tRP1Lzf6Mwc5Q3WyfAnCF0fsnssiloEzZCGxbr6/b\nUBXpHPDacZtoic0qb2Y8ie8O7XS8eGQt60He2YQF4QKBgQDz2pqw+p0HeNbCE7CA\nSzVZjVw9uuWNXfk6myh9mH1heucYf7Sddw0At/RqgCRT9M8TOkdA+R6EY03eDl9x\nRvo8mBvj0B9EZG1MTM27SfwY0C+ORlcWy66Wh10YvHfhmYPrWm4BJw+w8IWzOp9j\nPQ64KbS73N6x1fAKuGpB9HacIQKBgQDWZ/oVUDMraMxmiRgq5Qp6kDHATSZZk161\nUcnLNUhnNwYU+UYTeNfiD438iaB+9vgzMoxkeg80tmcKBxD5mIb4iq0qX/JlC3A7\nmQ+w3AzhyD5EFtewURFcqO2SIurKeDk9MYjan4nNJsGVvQU4AqvWGT5/qFmcDLDa\nwBeQBMyqYwKBgFG2ukl94Wrkkkp8oJONIDZ/CR7iZxPFHsQFxD65/6HPtmreOF7f\nyuqnue6KPCIqEc3mpIPgNtq0EB7OACuMVkRB0G65ihC3+mwr/HC7LQ//i0AI0Bwi\nasGkYIzuctmVQMB4EA6w0TBAmPzjMw/lIO6Tgy3EqJc9Em/1Nh4d1jUhAoGBAJ4L\nVSAi1yU3gfxPMF5mKTxBUDsVY6CB7j0wBdTh+PYEbFpHiW1PFauQlbRC6ujMOhbb\nOvvRsaXEkt2kadHiqhNJfe4PfckYDmoQIK3Y9zHzflqIkANrLqYj68NeM759sou2\nGNA268gqumYbSF6KMYqHXzeQrEVIYZFOKdBCiW9LAoGBAOcKWuLcKu7OWD2wHhUO\nPSCKrCIfiORhUt+W7Lk+hkZfa4a2R+uAs6RpziUsAK2y+m3CIHX9hC9ojvSAv9t8\n7oJLtd1FlufMv4QB4LVmMv4JFG4NpVgkZ8tf01qlbQednC81iMowYuPNYbtJgUfk\nNbOVijdUT1iTOGFTAYBiS5RJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "wrehmani@coaching-mate-social-website.iam.gserviceaccount.com",
+  "client_id": "112467467998066423558",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wrehmani%40coaching-mate-social-website.iam.gserviceaccount.com"
+}
